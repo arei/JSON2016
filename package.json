@@ -1,0 +1,46 @@
+{
+  "author": "Glen R. Goodwin (http://www.arei.net)",
+  "name": "JSON2016",
+  "keywords": [
+    "json",
+	"javascript object notation",
+	"json2016",
+	"json comments",
+	"json dates",
+	"json comment",
+	"json date",
+	"comments",
+	"dates",
+	"comment",
+	"date",
+	"json trailing comma",
+	"trailing comma",
+	"extra comma",
+	"comma",
+	"extraneous comma",
+	"ending comma",
+  ],
+  "description": "A modern refresh of JSON with additions for trailing commas, dates, and comments.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/arei/JSON2016",
+  "bugs": {
+    "url": "http://github.com/arei/JSON2016/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/arei/JSON2016/blob/master/LICENSE.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arei/JSON2016.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
