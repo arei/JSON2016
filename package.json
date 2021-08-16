@@ -36,7 +36,7 @@
     "type": "git",
     "url": "git://github.com/arei/JSON2016.git"
   },
-  "main": "index.js",
+  "main": "JSON2016.js",
   "engines": {
     "node": ">=0.10"
   },
