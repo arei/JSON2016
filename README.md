@@ -13,7 +13,7 @@ npm install JSON2016
 
 ## Usage
 
-JSON2016 has three usage aproaches, depending on your environment: Node, Browser, or Browserify.
+JSON2016 has four usage aproaches, depending on your environment: Node, Node Modules, Browser, or Browserify.
 
 #### NodeJS Usage
 
@@ -21,6 +21,14 @@ JSON2016 can be required just like any other node module:
 
 ```
 var json = require("JSON2016");
+json.parse(...);
+json.stringify(...);
+```
+
+JSON2016 can be imported if you're using .mjs modules/ES syntax:
+
+```
+import json from "JSON2016";
 json.parse(...);
 json.stringify(...);
 ```
